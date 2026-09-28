@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Developer;TypeScript+Enthusiast;Aspiring+Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Developer;TypeScript+Enthusiast;Aspiring+Full-Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
+
+<hr>
 
 * 🔭 I’m currently working on [FitLog — Workout Library & Planning App](https://fit-log-three-silk.vercel.app/)
 
@@ -18,6 +20,8 @@
 
 * ⚡ Fun fact **I enjoy turning ideas into things people can actually use.**
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -30,32 +34,47 @@
   </a>
 </p>
 
+<hr>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,mongodb,git,figma&perline=7" alt="Languages and Tools"/>
 </p>
 
+<hr>
+
 <h3 align="left">GitHub Stats:</h3>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monira953&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monira953&layout=compact&show_icons=true&locale=en" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monira953&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=monira953&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monira953" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monira953" alt="GitHub Streak" />
 </p>
+
+<hr>
 
 <h3 align="left">My Contribution Snake:</h3>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monira953/monira953/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monira953/monira953/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/monira953/monira953/output/github-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/monira953/monira953/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/monira953/monira953/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/monira953/monira953/output/github-snake.svg"
+      alt="GitHub contribution snake"
+    />
   </picture>
 </p>
