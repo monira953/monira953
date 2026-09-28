@@ -47,15 +47,24 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monira953&layout=compact&show_icons=true&locale=en" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=monira953&layout=compact&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=monira953&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=monira953&show_icons=true&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monira953" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=monira953"
+    alt="GitHub Streak"
+  />
 </p>
 
 <hr>
